@@ -13,7 +13,7 @@
             "id": "https://mathican.net/test-post.html",
             "url": "https://mathican.net/test-post.html",
             "title": "Todos",
-            "summary": "I feel like I have so much to do! Check out some themes available for Publii. Do the first commit of actual Mathican in the repository. Change the world.",
+            "summary": "I feel like I have so much to do! Check out some themes available for Publii. Do the first commit of actual Mathican in the&hellip;",
             "content_html": "<p>I feel like I have so much to do!</p>\n<p>Check out some themes available for Publii.</p>\n<p>Do the first commit of actual Mathican in the repository.</p>\n<p>Change the world.</p>",
             "author": {
                 "name": "Jay Bostock"
@@ -27,7 +27,7 @@
             "id": "https://mathican.net/welcome-to-mathican.html",
             "url": "https://mathican.net/welcome-to-mathican.html",
             "title": "Welcome to Mathican",
-            "summary": "M=&gt; This is Mathican This is the first post of a test of the Publii static site generator. I’ve got to say - I am quite impressed, I like Publii a lot. I think it will work quite well as a launch mechanism for mathican.net,&hellip;",
+            "summary": "M=&gt; This is Mathican This is the first post of a test of the Publii static site generator. I’ve got to say - I am&hellip;",
             "content_html": "<p>M=&gt; This is Mathican</p><p>This is the first post of a test of the Publii static site generator. I’ve got to say - I am quite impressed, I like Publii a lot. I think it will work quite well as a launch mechanism for mathican.net, hosted on Github pages. Well done peeps at Publii.</p>",
             "author": {
                 "name": "Jay Bostock"
