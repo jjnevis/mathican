@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://mathican.net/test-post.html",
+            "url": "https://mathican.net/test-post.html",
+            "title": "Test post",
+            "summary": "this is post two on the mathican.net website as a test",
+            "content_html": "<p>this is post two on the mathican.net website as a test</p>",
+            "author": {
+                "name": "Jay Bostock"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-09T23:56:58+01:00",
+            "date_modified": "2026-09-09T23:56:58+01:00"
+        },
+        {
             "id": "https://mathican.net/welcome-to-mathican.html",
             "url": "https://mathican.net/welcome-to-mathican.html",
             "title": "Welcome to Mathican",

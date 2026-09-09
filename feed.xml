@@ -3,12 +3,32 @@
     <title>mathican</title>
     <link href="https://mathican.net/feed.xml" rel="self" />
     <link href="https://mathican.net" />
-    <updated>2026-09-09T23:25:45+01:00</updated>
+    <updated>2026-09-09T23:56:58+01:00</updated>
     <author>
         <name>Jay Bostock</name>
     </author>
     <id>https://mathican.net</id>
 
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Jay Bostock</name>
+        </author>
+        <link href="https://mathican.net/test-post.html"/>
+        <id>https://mathican.net/test-post.html</id>
+
+        <updated>2026-09-09T23:56:58+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    this is post two on the mathican.net website as a test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is post two on the mathican.net website as a test</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Welcome to Mathican</title>
         <author>
