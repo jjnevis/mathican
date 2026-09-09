@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>mathican</title>
+    <title>Mathican</title>
     <link href="https://mathican.net/feed.xml" rel="self" />
     <link href="https://mathican.net" />
-    <updated>2026-09-09T23:56:58+01:00</updated>
+    <updated>2026-09-10T00:20:32+01:00</updated>
     <author>
         <name>Jay Bostock</name>
     </author>
     <id>https://mathican.net</id>
 
     <entry>
-        <title>Test post</title>
+        <title>Todos</title>
         <author>
             <name>Jay Bostock</name>
         </author>
@@ -20,12 +20,15 @@
         <updated>2026-09-09T23:56:58+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    this is post two on the mathican.net website as a test
+                    I feel like I have so much to do! Check out some themes available for Publii. Do the first commit of actual Mathican in the repository. Change the world.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>this is post two on the mathican.net website as a test</p>
+                <p>I feel like I have so much to do!</p>
+<p>Check out some themes available for Publii.</p>
+<p>Do the first commit of actual Mathican in the repository.</p>
+<p>Change the world.</p>
             ]]>
         </content>
     </entry>
@@ -40,12 +43,12 @@
         <updated>2026-09-09T23:25:45+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    M=&gt; This is Mathican
+                    M=&gt; This is Mathican This is the first post of a test of the Publii static site generator. I’ve got to say - I am quite impressed, I like Publii a lot. I think it will work quite well as a launch mechanism for mathican.net,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>M=&gt; This is Mathican</p>
+                <p>M=&gt; This is Mathican</p><p>This is the first post of a test of the Publii static site generator. I’ve got to say - I am quite impressed, I like Publii a lot. I think it will work quite well as a launch mechanism for mathican.net, hosted on Github pages. Well done peeps at Publii.</p>
             ]]>
         </content>
     </entry>

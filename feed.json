@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "mathican",
+    "title": "Mathican",
     "description": "",
     "home_page_url": "https://mathican.net",
     "feed_url": "https://mathican.net/feed.json",
@@ -12,30 +12,30 @@
         {
             "id": "https://mathican.net/test-post.html",
             "url": "https://mathican.net/test-post.html",
-            "title": "Test post",
-            "summary": "this is post two on the mathican.net website as a test",
-            "content_html": "<p>this is post two on the mathican.net website as a test</p>",
+            "title": "Todos",
+            "summary": "I feel like I have so much to do! Check out some themes available for Publii. Do the first commit of actual Mathican in the repository. Change the world.",
+            "content_html": "<p>I feel like I have so much to do!</p>\n<p>Check out some themes available for Publii.</p>\n<p>Do the first commit of actual Mathican in the repository.</p>\n<p>Change the world.</p>",
             "author": {
                 "name": "Jay Bostock"
             },
             "tags": [
             ],
             "date_published": "2026-09-09T23:56:58+01:00",
-            "date_modified": "2026-09-09T23:56:58+01:00"
+            "date_modified": "2026-09-10T00:20:32+01:00"
         },
         {
             "id": "https://mathican.net/welcome-to-mathican.html",
             "url": "https://mathican.net/welcome-to-mathican.html",
             "title": "Welcome to Mathican",
-            "summary": "M=&gt; This is Mathican",
-            "content_html": "<p>M=&gt; This is Mathican</p>",
+            "summary": "M=&gt; This is Mathican This is the first post of a test of the Publii static site generator. I’ve got to say - I am quite impressed, I like Publii a lot. I think it will work quite well as a launch mechanism for mathican.net,&hellip;",
+            "content_html": "<p>M=&gt; This is Mathican</p><p>This is the first post of a test of the Publii static site generator. I’ve got to say - I am quite impressed, I like Publii a lot. I think it will work quite well as a launch mechanism for mathican.net, hosted on Github pages. Well done peeps at Publii.</p>",
             "author": {
                 "name": "Jay Bostock"
             },
             "tags": [
             ],
             "date_published": "2026-09-09T23:25:45+01:00",
-            "date_modified": "2026-09-09T23:25:45+01:00"
+            "date_modified": "2026-09-10T00:17:51+01:00"
         }
     ]
 }
