@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>mathican</title>
+    <link href="https://mathican.net/feed.xml" rel="self" />
+    <link href="https://mathican.net" />
+    <updated>2026-09-09T23:25:45+01:00</updated>
+    <author>
+        <name>Jay Bostock</name>
+    </author>
+    <id>https://mathican.net</id>
+
+    <entry>
+        <title>Welcome to Mathican</title>
+        <author>
+            <name>Jay Bostock</name>
+        </author>
+        <link href="https://mathican.net/welcome-to-mathican.html"/>
+        <id>https://mathican.net/welcome-to-mathican.html</id>
+
+        <updated>2026-09-09T23:25:45+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    M=&gt; This is Mathican
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>M=&gt; This is Mathican</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
