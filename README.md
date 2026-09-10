@@ -8,6 +8,7 @@ Version: [tbd]
 "M=>": Identifyer prompt - informs the reader that what follows is Mathican.
 
 Number sets:
+
 	O: Origin, Zero
 
 	N: Natural - positive real integers.
