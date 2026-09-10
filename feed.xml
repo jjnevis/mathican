@@ -3,16 +3,37 @@
     <title>Mathican</title>
     <link href="https://mathican.net/feed.xml" rel="self" />
     <link href="https://mathican.net" />
-    <updated>2026-09-10T00:20:32+01:00</updated>
+    <updated>2026-09-10T12:00:45+01:00</updated>
     <author>
-        <name>Jay Bostock</name>
+        <name>jjnevis</name>
     </author>
     <id>https://mathican.net</id>
 
     <entry>
+        <title>Fundamental relations</title>
+        <author>
+            <name>jjnevis</name>
+        </author>
+        <link href="https://mathican.net/fundamental-relations.html"/>
+        <id>https://mathican.net/fundamental-relations.html</id>
+
+        <updated>2026-09-10T11:52:53+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I just wanted to share this little bit of Mathican because it nicely illustrates Mathican's semel (classical mathematical language) roots as well as it's divergence&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I just wanted to share this little bit of Mathican because it nicely illustrates Mathican's semel (classical mathematical language) roots as well as it's divergence (logarithmic notation).</p>
+<figure class="post__image"><img loading="lazy"  src="https://mathican.net/media/posts/5/PXL_20260909_115112230~2.jpg" alt="Mathican fundamental relations" width="3172" height="1508" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-xs.jpg 300w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-sm.jpg 480w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-md.jpg 768w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Todos</title>
         <author>
-            <name>Jay Bostock</name>
+            <name>jjnevis</name>
         </author>
         <link href="https://mathican.net/test-post.html"/>
         <id>https://mathican.net/test-post.html</id>
@@ -35,7 +56,7 @@
     <entry>
         <title>Welcome to Mathican</title>
         <author>
-            <name>Jay Bostock</name>
+            <name>jjnevis</name>
         </author>
         <link href="https://mathican.net/welcome-to-mathican.html"/>
         <id>https://mathican.net/welcome-to-mathican.html</id>
