@@ -7,21 +7,21 @@ Version: [tbd]
 
 "M=>": Identifyer prompt - informs the reader that what follows is Mathican.
 
-O: Origin, Zero
+Number sets:
+	O: Origin, Zero
 
-N: The set of natural numbers - the positive integers.
-(This is one of the inspirational moments for Mathican. There is no discussion, in Mathican zero is NOT a natural number, at least until it is changed or removed altogether through a change request.)
+	N: Natural - positive real integers.
 
-W: The set of whole numbers - the non-negative integers.
+	W: Whole - non-negative real integers.
 
-Z: Integers [PC: C: Counter]
+	Z: Integers [PC: I: Integers]
 
-Q: Rational [PC: R: Rational]
+	Q: Rational [PC: R: Rational]
 
-I: Irrational
+	I: Irrational [PC: !R: Irrational]
 
-R: Real [PC: V: Vertical]
+	R: Real [PC: V: Vertical]
 
-L: Lateral (sem:[Imaginary])
+	L: Imaginary [PC: L: Lateral]
 
-C: Complex
+	C: Complex
