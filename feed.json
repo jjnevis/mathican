@@ -13,8 +13,8 @@
             "id": "https://mathican.net/fundamental-relations.html",
             "url": "https://mathican.net/fundamental-relations.html",
             "title": "Fundamental relations",
-            "summary": "I just wanted to share this little bit of Mathican because it nicely illustrates Mathican's semel (classical mathematical language) roots as well as it's divergence&hellip;",
-            "content_html": "<p>I just wanted to share this little bit of Mathican because it nicely illustrates Mathican's semel (classical mathematical language) roots as well as it's divergence (logarithmic notation).</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mathican.net/media/posts/5/PXL_20260909_115112230~2.jpg\" alt=\"Mathican fundamental relations\" width=\"3172\" height=\"1508\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-xs.jpg 300w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-sm.jpg 480w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-md.jpg 768w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-lg.jpg 1024w\"></figure>",
+            "summary": "I just wanted to share this little bit of Mathican because it nicely illustrates Mathican's semel (classical mathematical language) roots as well as it's divergence (logarithmic notation).",
+            "content_html": "<p>I just wanted to share this little bit of Mathican because it nicely illustrates Mathican's semel (classical mathematical language) roots as well as it's divergence (logarithmic notation).</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mathican.net/media/posts/5/PXL_20260909_115112230~2.jpg\" alt=\"Mathican fundamental relations\" width=\"3172\" height=\"1508\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-xs.jpg 640w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-sm.jpg 768w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-md.jpg 1024w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-lg.jpg 1366w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-xl.jpg 1600w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-2xl.jpg 1920w\"></figure>",
             "author": {
                 "name": "jjnevis"
             },
@@ -27,7 +27,7 @@
             "id": "https://mathican.net/test-post.html",
             "url": "https://mathican.net/test-post.html",
             "title": "Todos",
-            "summary": "I feel like I have so much to do! Check out some themes available for Publii. Do the first commit of actual Mathican in the&hellip;",
+            "summary": "I feel like I have so much to do! Check out some themes available for Publii. Do the first commit of actual Mathican in the repository. Change the world.",
             "content_html": "<p>I feel like I have so much to do!</p>\n<p>Check out some themes available for Publii.</p>\n<p>Do the first commit of actual Mathican in the repository.</p>\n<p>Change the world.</p>",
             "author": {
                 "name": "jjnevis"
@@ -41,7 +41,7 @@
             "id": "https://mathican.net/welcome-to-mathican.html",
             "url": "https://mathican.net/welcome-to-mathican.html",
             "title": "Welcome to Mathican",
-            "summary": "M=&gt; This is Mathican This is the first post of a test of the Publii static site generator. I’ve got to say - I am&hellip;",
+            "summary": "M=&gt; This is Mathican This is the first post of a test of the Publii static site generator. I’ve got to say - I am quite impressed, I like Publii a lot. I think it will work quite well as a launch mechanism for mathican.net,&hellip;",
             "content_html": "<p>M=&gt; This is Mathican</p><p>This is the first post of a test of the Publii static site generator. I’ve got to say - I am quite impressed, I like Publii a lot. I think it will work quite well as a launch mechanism for mathican.net, hosted on Github pages. Well done peeps at Publii.</p>",
             "author": {
                 "name": "jjnevis"

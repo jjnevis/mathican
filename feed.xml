@@ -20,13 +20,13 @@
         <updated>2026-09-10T11:52:53+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    I just wanted to share this little bit of Mathican because it nicely illustrates Mathican's semel (classical mathematical language) roots as well as it's divergence&hellip;
+                    I just wanted to share this little bit of Mathican because it nicely illustrates Mathican's semel (classical mathematical language) roots as well as it's divergence (logarithmic notation).
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>I just wanted to share this little bit of Mathican because it nicely illustrates Mathican's semel (classical mathematical language) roots as well as it's divergence (logarithmic notation).</p>
-<figure class="post__image"><img loading="lazy"  src="https://mathican.net/media/posts/5/PXL_20260909_115112230~2.jpg" alt="Mathican fundamental relations" width="3172" height="1508" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-xs.jpg 300w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-sm.jpg 480w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-md.jpg 768w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://mathican.net/media/posts/5/PXL_20260909_115112230~2.jpg" alt="Mathican fundamental relations" width="3172" height="1508" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-xs.jpg 640w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-sm.jpg 768w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-md.jpg 1024w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-lg.jpg 1366w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-xl.jpg 1600w ,https://mathican.net/media/posts/5/responsive/PXL_20260909_115112230~2-2xl.jpg 1920w"></figure>
             ]]>
         </content>
     </entry>
@@ -41,7 +41,7 @@
         <updated>2026-09-09T23:56:58+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    I feel like I have so much to do! Check out some themes available for Publii. Do the first commit of actual Mathican in the&hellip;
+                    I feel like I have so much to do! Check out some themes available for Publii. Do the first commit of actual Mathican in the repository. Change the world.
                 ]]>
             </summary>
         <content type="html">
@@ -64,7 +64,7 @@
         <updated>2026-09-09T23:25:45+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    M=&gt; This is Mathican This is the first post of a test of the Publii static site generator. I’ve got to say - I am&hellip;
+                    M=&gt; This is Mathican This is the first post of a test of the Publii static site generator. I’ve got to say - I am quite impressed, I like Publii a lot. I think it will work quite well as a launch mechanism for mathican.net,&hellip;
                 ]]>
             </summary>
         <content type="html">
